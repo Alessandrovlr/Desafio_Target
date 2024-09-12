@@ -10,7 +10,7 @@ while(contadorUsuario != fibonacci){
     console.log(fibonacci);
 }
 
-if(fibonacci = contadorUsuario){
+if(fibonacci == contadorUsuario){
     console.log(`${contadorUsuario} faz parte da fibonacci`);
 }else{
     console.log(`${contadorUsuario} não faz parte da fibonacci`)
